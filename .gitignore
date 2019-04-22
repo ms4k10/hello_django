@@ -1,0 +1,5 @@
+*.sqlite3
+django_hello/__pycache__/
+django_hello/local_settings.py
+hello/__pycache__/
+hello/migrations/__pycache__/
